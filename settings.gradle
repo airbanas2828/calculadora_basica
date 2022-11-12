@@ -1,0 +1,2 @@
+rootProject.name = "Operacione basicas"
+include ':app'
